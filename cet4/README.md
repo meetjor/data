@@ -13,6 +13,8 @@
 
 ## 兴趣阅读
 
+- [兴趣阅读文章归档｜ARTICLE 格式](./reading/兴趣阅读文章归档.md)
+
 - [Day 05｜2026-09-27 兴趣阅读](./reading/2026-09-27_Day05/README.md)
 - [Day 06｜2026-09-28 兴趣阅读](./reading/2026-09-28_Day06/README.md)
 
