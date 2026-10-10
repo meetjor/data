@@ -16,6 +16,8 @@
 
 - [Day09｜从识别到准确输出](./daily/2026-10-10_Day09_从识别到准确输出.md)｜[平板PDF](./daily/CET4_Day09.pdf)
 
+- [Day10｜把条件和结果写完整](./daily/2026-10-10_Day10_把条件和结果写完整.md)｜[平板PDF（私有仓库）](https://github.com/meetjor/notions/blob/main/四级/作业PDF/CET4_Day10.pdf)
+
 ## 兴趣阅读
 
 - [兴趣阅读文章归档｜ARTICLE 格式](./reading/兴趣阅读文章归档.md)
@@ -27,6 +29,8 @@
 - [Day 08｜兴趣阅读](./reading/2026-10-03_Day08/README.md)
 
 - [Day09｜兴趣阅读](./reading/2026-10-10_Day09/README.md)
+
+- [Day10｜兴趣阅读](./reading/2026-10-10_Day10/README.md)
 
 ## 历史听力资料
 
