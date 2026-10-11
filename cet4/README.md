@@ -16,7 +16,7 @@
 
 - [Day09｜从识别到准确输出](./daily/2026-10-10_Day09_从识别到准确输出.md)｜[平板PDF](./daily/CET4_Day09.pdf)
 
-- [Day10｜把条件和结果写完整](./daily/2026-10-10_Day10_把条件和结果写完整.md)｜[平板PDF（私有仓库）](https://github.com/meetjor/notions/blob/main/四级/作业PDF/CET4_Day10.pdf)
+- [Day10｜把条件和结果写完整](./daily/2026-10-10_Day10_把条件和结果写完整.md)｜[平板PDF](./daily/CET4_Day10.pdf)
 
 ## 兴趣阅读
 
