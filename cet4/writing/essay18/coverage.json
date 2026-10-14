@@ -1,0 +1,2385 @@
+{
+  "statistics": {
+    "essays": 18,
+    "body_words": 2805,
+    "word_range": [
+      145,
+      161
+    ],
+    "source_entries": 1941,
+    "source_unique_heads": 1940,
+    "covered_heads": 279,
+    "focus_slots": 216,
+    "focus_unique_heads": 208,
+    "covered_in_multiple_essays": 72,
+    "coverage_percent": 14.4,
+    "topics": {
+      "观点与立场": 3,
+      "提案与措施": 3,
+      "重要性与收益": 2,
+      "描述与经历": 2,
+      "报告与报道": 2,
+      "推荐": 2,
+      "申请信": 1,
+      "邀请信": 1,
+      "发展与影响": 1,
+      "未来应用": 1
+    }
+  },
+  "covered": {
+    "ability": {
+      "3": [
+        "abilities"
+      ],
+      "8": [
+        "abilities"
+      ],
+      "12": [
+        "abilities"
+      ],
+      "15": [
+        "abilities"
+      ]
+    },
+    "academic": {
+      "1": [
+        "academic"
+      ],
+      "2": [
+        "academic"
+      ]
+    },
+    "access": {
+      "1": [
+        "access"
+      ],
+      "4": [
+        "access"
+      ],
+      "18": [
+        "access"
+      ]
+    },
+    "accompany": {
+      "16": [
+        "accompany"
+      ]
+    },
+    "accurate": {
+      "2": [
+        "accurate"
+      ]
+    },
+    "achievement": {
+      "12": [
+        "achievements"
+      ]
+    },
+    "acknowledge": {
+      "8": [
+        "acknowledge"
+      ]
+    },
+    "action": {
+      "5": [
+        "actions"
+      ]
+    },
+    "activity": {
+      "10": [
+        "activities"
+      ],
+      "15": [
+        "activities",
+        "activity"
+      ]
+    },
+    "adapt": {
+      "15": [
+        "adapt"
+      ]
+    },
+    "adequate": {
+      "4": [
+        "adequate"
+      ]
+    },
+    "advanced": {
+      "3": [
+        "advanced"
+      ],
+      "18": [
+        "advanced"
+      ]
+    },
+    "affect": {
+      "13": [
+        "affect"
+      ]
+    },
+    "afterward": {
+      "6": [
+        "afterward"
+      ]
+    },
+    "agenda": {
+      "16": [
+        "agenda"
+      ]
+    },
+    "ambition": {
+      "3": [
+        "ambitions"
+      ]
+    },
+    "amount": {
+      "11": [
+        "amount"
+      ]
+    },
+    "ancient": {
+      "14": [
+        "ancient"
+      ]
+    },
+    "annual": {
+      "6": [
+        "annual"
+      ]
+    },
+    "anxiety": {
+      "7": [
+        "anxiety"
+      ]
+    },
+    "applaud": {
+      "9": [
+        "applauded"
+      ]
+    },
+    "applicant": {
+      "15": [
+        "applicant"
+      ]
+    },
+    "application": {
+      "12": [
+        "application"
+      ],
+      "15": [
+        "application"
+      ]
+    },
+    "apply": {
+      "15": [
+        "apply"
+      ]
+    },
+    "appreciate": {
+      "9": [
+        "appreciate"
+      ]
+    },
+    "appropriate": {
+      "1": [
+        "appropriate"
+      ],
+      "7": [
+        "appropriate"
+      ]
+    },
+    "architecture": {
+      "14": [
+        "architecture"
+      ]
+    },
+    "argument": {
+      "8": [
+        "argument"
+      ]
+    },
+    "arise": {
+      "13": [
+        "arise"
+      ]
+    },
+    "arrange": {
+      "6": [
+        "arrange"
+      ],
+      "11": [
+        "arrange"
+      ]
+    },
+    "arrangement": {
+      "1": [
+        "arrangement"
+      ],
+      "16": [
+        "arrangement"
+      ]
+    },
+    "artificial": {
+      "2": [
+        "artificial"
+      ]
+    },
+    "artistic": {
+      "9": [
+        "artistic"
+      ]
+    },
+    "assignment": {
+      "2": [
+        "assignment"
+      ]
+    },
+    "assist": {
+      "2": [
+        "assist"
+      ],
+      "15": [
+        "assist"
+      ],
+      "18": [
+        "assist"
+      ]
+    },
+    "association": {
+      "11": [
+        "association"
+      ]
+    },
+    "atmosphere": {
+      "6": [
+        "atmosphere"
+      ],
+      "9": [
+        "atmosphere"
+      ]
+    },
+    "attitude": {
+      "8": [
+        "attitude"
+      ]
+    },
+    "audience": {
+      "9": [
+        "audience"
+      ],
+      "16": [
+        "audience"
+      ]
+    },
+    "authority": {
+      "17": [
+        "authorities"
+      ]
+    },
+    "automatic": {
+      "18": [
+        "automatic"
+      ]
+    },
+    "available": {
+      "1": [
+        "available"
+      ],
+      "4": [
+        "available"
+      ],
+      "6": [
+        "available"
+      ]
+    },
+    "avoid": {
+      "3": [
+        "avoiding"
+      ],
+      "17": [
+        "avoid"
+      ]
+    },
+    "background": {
+      "8": [
+        "backgrounds"
+      ]
+    },
+    "balance": {
+      "7": [
+        "balance",
+        "balanced"
+      ]
+    },
+    "behalf": {
+      "16": [
+        "behalf"
+      ]
+    },
+    "behave": {
+      "8": [
+        "behave"
+      ]
+    },
+    "benefit": {
+      "1": [
+        "benefit"
+      ],
+      "17": [
+        "benefits"
+      ],
+      "18": [
+        "benefits"
+      ]
+    },
+    "budget": {
+      "6": [
+        "budget"
+      ]
+    },
+    "campaign": {
+      "5": [
+        "campaign"
+      ]
+    },
+    "campus": {
+      "1": [
+        "campus"
+      ],
+      "5": [
+        "campus"
+      ],
+      "6": [
+        "campus"
+      ],
+      "9": [
+        "campus"
+      ],
+      "16": [
+        "campus"
+      ],
+      "18": [
+        "campus"
+      ]
+    },
+    "capable": {
+      "15": [
+        "capable"
+      ]
+    },
+    "capacity": {
+      "1": [
+        "capacity"
+      ]
+    },
+    "carbon": {
+      "5": [
+        "carbon"
+      ]
+    },
+    "career": {
+      "3": [
+        "career"
+      ],
+      "12": [
+        "career"
+      ],
+      "16": [
+        "career"
+      ]
+    },
+    "catalog": {
+      "4": [
+        "catalogue"
+      ]
+    },
+    "character": {
+      "13": [
+        "character",
+        "characters"
+      ]
+    },
+    "claim": {
+      "12": [
+        "claims"
+      ]
+    },
+    "clarify": {
+      "8": [
+        "clarify"
+      ]
+    },
+    "classify": {
+      "11": [
+        "classified"
+      ]
+    },
+    "collaboration": {
+      "8": [
+        "collaboration"
+      ]
+    },
+    "collection": {
+      "11": [
+        "collection",
+        "collections"
+      ]
+    },
+    "combine": {
+      "3": [
+        "combine"
+      ],
+      "17": [
+        "combine"
+      ]
+    },
+    "comment": {
+      "6": [
+        "comments"
+      ],
+      "8": [
+        "comments"
+      ]
+    },
+    "commerce": {
+      "17": [
+        "commerce"
+      ]
+    },
+    "commitment": {
+      "15": [
+        "commitment"
+      ]
+    },
+    "committee": {
+      "6": [
+        "committee"
+      ]
+    },
+    "communication": {
+      "8": [
+        "communication"
+      ]
+    },
+    "community": {
+      "1": [
+        "community"
+      ],
+      "9": [
+        "community"
+      ],
+      "15": [
+        "community"
+      ]
+    },
+    "competent": {
+      "3": [
+        "competent"
+      ]
+    },
+    "competition": {
+      "6": [
+        "competition"
+      ],
+      "9": [
+        "competition"
+      ]
+    },
+    "complaint": {
+      "4": [
+        "complaint"
+      ]
+    },
+    "concentrate": {
+      "7": [
+        "concentrate"
+      ]
+    },
+    "concern": {
+      "1": [
+        "concern"
+      ]
+    },
+    "confidence": {
+      "8": [
+        "confidence"
+      ]
+    },
+    "confirm": {
+      "16": [
+        "confirm"
+      ]
+    },
+    "conflict": {
+      "8": [
+        "conflict"
+      ]
+    },
+    "conservation": {
+      "5": [
+        "conservation"
+      ]
+    },
+    "constant": {
+      "7": [
+        "constant"
+      ]
+    },
+    "construct": {
+      "10": [
+        "constructed"
+      ]
+    },
+    "consumer": {
+      "17": [
+        "consumers"
+      ]
+    },
+    "consumption": {
+      "5": [
+        "consumption"
+      ]
+    },
+    "contact": {
+      "16": [
+        "contact"
+      ]
+    },
+    "contribute": {
+      "15": [
+        "contribute"
+      ]
+    },
+    "contribution": {
+      "11": [
+        "contribution"
+      ]
+    },
+    "convenience": {
+      "4": [
+        "convenience"
+      ],
+      "17": [
+        "convenience"
+      ]
+    },
+    "cooperate": {
+      "6": [
+        "cooperate"
+      ]
+    },
+    "county": {
+      "15": [
+        "county"
+      ]
+    },
+    "create": {
+      "17": [
+        "created"
+      ]
+    },
+    "creative": {
+      "6": [
+        "creative"
+      ],
+      "9": [
+        "creative"
+      ]
+    },
+    "culture": {
+      "14": [
+        "culture"
+      ]
+    },
+    "curiosity": {
+      "13": [
+        "curiosity"
+      ]
+    },
+    "curriculum": {
+      "3": [
+        "curriculum"
+      ]
+    },
+    "cycle": {
+      "10": [
+        "cycling"
+      ]
+    },
+    "delivery": {
+      "17": [
+        "delivery"
+      ]
+    },
+    "deserve": {
+      "3": [
+        "deserve"
+      ]
+    },
+    "despite": {
+      "17": [
+        "despite"
+      ]
+    },
+    "detail": {
+      "14": [
+        "details"
+      ]
+    },
+    "device": {
+      "18": [
+        "device",
+        "devices"
+      ]
+    },
+    "diet": {
+      "7": [
+        "diet"
+      ]
+    },
+    "digital": {
+      "4": [
+        "digital"
+      ]
+    },
+    "discard": {
+      "5": [
+        "discard"
+      ]
+    },
+    "discipline": {
+      "3": [
+        "discipline"
+      ]
+    },
+    "discourage": {
+      "3": [
+        "discourage"
+      ]
+    },
+    "display": {
+      "6": [
+        "display"
+      ],
+      "9": [
+        "display"
+      ]
+    },
+    "distribute": {
+      "11": [
+        "distributed"
+      ]
+    },
+    "donate": {
+      "11": [
+        "donate"
+      ]
+    },
+    "economic": {
+      "10": [
+        "economic"
+      ]
+    },
+    "educate": {
+      "14": [
+        "educate"
+      ]
+    },
+    "efficient": {
+      "2": [
+        "efficient"
+      ]
+    },
+    "electrical": {
+      "5": [
+        "electrical"
+      ]
+    },
+    "electronic": {
+      "17": [
+        "electronic"
+      ]
+    },
+    "employer": {
+      "12": [
+        "employers"
+      ]
+    },
+    "employment": {
+      "3": [
+        "employment"
+      ],
+      "12": [
+        "employment"
+      ],
+      "16": [
+        "employment"
+      ],
+      "17": [
+        "employment"
+      ]
+    },
+    "engineering": {
+      "18": [
+        "engineering"
+      ]
+    },
+    "enthusiasm": {
+      "6": [
+        "enthusiasm"
+      ],
+      "15": [
+        "enthusiasm"
+      ]
+    },
+    "environment": {
+      "5": [
+        "environmental"
+      ],
+      "10": [
+        "environment"
+      ],
+      "17": [
+        "environment"
+      ]
+    },
+    "essential": {
+      "3": [
+        "essential"
+      ]
+    },
+    "evaluate": {
+      "12": [
+        "evaluation"
+      ]
+    },
+    "evidence": {
+      "2": [
+        "evidence"
+      ]
+    },
+    "exhibit": {
+      "9": [
+        "exhibit"
+      ],
+      "14": [
+        "exhibits"
+      ]
+    },
+    "expense": {
+      "11": [
+        "expenses"
+      ],
+      "17": [
+        "expense"
+      ]
+    },
+    "explore": {
+      "3": [
+        "explore"
+      ]
+    },
+    "facility": {
+      "1": [
+        "facilities"
+      ],
+      "5": [
+        "facilities"
+      ]
+    },
+    "fascinate": {
+      "14": [
+        "fascinate"
+      ]
+    },
+    "fatigue": {
+      "7": [
+        "fatigue"
+      ]
+    },
+    "feature": {
+      "10": [
+        "features"
+      ],
+      "14": [
+        "feature"
+      ]
+    },
+    "feedback": {
+      "4": [
+        "feedback"
+      ]
+    },
+    "fiction": {
+      "13": [
+        "fiction"
+      ]
+    },
+    "flexible": {
+      "3": [
+        "flexible"
+      ]
+    },
+    "focus": {
+      "8": [
+        "focus"
+      ]
+    },
+    "function": {
+      "18": [
+        "function"
+      ]
+    },
+    "fund": {
+      "11": [
+        "fund"
+      ]
+    },
+    "gesture": {
+      "9": [
+        "gesture"
+      ]
+    },
+    "gradual": {
+      "10": [
+        "gradual"
+      ],
+      "13": [
+        "gradually"
+      ]
+    },
+    "graduate": {
+      "16": [
+        "graduate"
+      ]
+    },
+    "grateful": {
+      "15": [
+        "grateful"
+      ]
+    },
+    "guidance": {
+      "3": [
+        "guidance"
+      ],
+      "12": [
+        "guidance"
+      ]
+    },
+    "gym": {
+      "1": [
+        "gym"
+      ]
+    },
+    "handle": {
+      "8": [
+        "handle"
+      ],
+      "16": [
+        "handled"
+      ],
+      "18": [
+        "handle"
+      ]
+    },
+    "helpful": {
+      "7": [
+        "helpful"
+      ]
+    },
+    "historical": {
+      "10": [
+        "historical"
+      ],
+      "14": [
+        "historical"
+      ]
+    },
+    "host": {
+      "16": [
+        "host"
+      ]
+    },
+    "household": {
+      "5": [
+        "household"
+      ],
+      "17": [
+        "household"
+      ]
+    },
+    "housing": {
+      "10": [
+        "housing"
+      ]
+    },
+    "imagination": {
+      "13": [
+        "imagination"
+      ]
+    },
+    "impress": {
+      "9": [
+        "impressed"
+      ]
+    },
+    "impression": {
+      "9": [
+        "impression"
+      ],
+      "14": [
+        "impression"
+      ]
+    },
+    "improvement": {
+      "10": [
+        "improvement"
+      ]
+    },
+    "independent": {
+      "2": [
+        "independent"
+      ]
+    },
+    "inform": {
+      "16": [
+        "inform"
+      ]
+    },
+    "insight": {
+      "13": [
+        "insight"
+      ]
+    },
+    "intelligence": {
+      "2": [
+        "intelligence"
+      ]
+    },
+    "interact": {
+      "8": [
+        "interact"
+      ]
+    },
+    "interpretation": {
+      "14": [
+        "interpretation"
+      ]
+    },
+    "interview": {
+      "12": [
+        "interview"
+      ],
+      "16": [
+        "interviews"
+      ]
+    },
+    "investigate": {
+      "12": [
+        "investigate"
+      ]
+    },
+    "invitation": {
+      "16": [
+        "invitation"
+      ]
+    },
+    "involve": {
+      "17": [
+        "involved"
+      ]
+    },
+    "item": {
+      "5": [
+        "items"
+      ],
+      "17": [
+        "items"
+      ]
+    },
+    "judgment": {
+      "18": [
+        "judgment"
+      ]
+    },
+    "label": {
+      "11": [
+        "label"
+      ]
+    },
+    "landscape": {
+      "10": [
+        "landscape"
+      ]
+    },
+    "leisure": {
+      "14": [
+        "leisure"
+      ]
+    },
+    "likely": {
+      "5": [
+        "likely"
+      ]
+    },
+    "literature": {
+      "13": [
+        "literature"
+      ]
+    },
+    "local": {
+      "1": [
+        "local"
+      ],
+      "10": [
+        "local"
+      ],
+      "11": [
+        "local"
+      ],
+      "14": [
+        "local"
+      ],
+      "17": [
+        "local"
+      ]
+    },
+    "locate": {
+      "4": [
+        "locate"
+      ]
+    },
+    "lower": {
+      "5": [
+        "lower"
+      ]
+    },
+    "maintain": {
+      "5": [
+        "maintain"
+      ],
+      "7": [
+        "maintain"
+      ]
+    },
+    "maintenance": {
+      "18": [
+        "maintenance"
+      ]
+    },
+    "mislead": {
+      "2": [
+        "mislead"
+      ]
+    },
+    "mood": {
+      "7": [
+        "mood"
+      ]
+    },
+    "moral": {
+      "13": [
+        "moral"
+      ]
+    },
+    "motivate": {
+      "7": [
+        "motivate"
+      ]
+    },
+    "museum": {
+      "14": [
+        "museum"
+      ]
+    },
+    "mutual": {
+      "8": [
+        "mutual"
+      ]
+    },
+    "negative": {
+      "17": [
+        "negative"
+      ]
+    },
+    "network": {
+      "10": [
+        "network"
+      ]
+    },
+    "occupation": {
+      "3": [
+        "occupation"
+      ],
+      "12": [
+        "occupation"
+      ]
+    },
+    "opportunity": {
+      "12": [
+        "opportunities"
+      ],
+      "15": [
+        "opportunity"
+      ]
+    },
+    "option": {
+      "3": [
+        "option",
+        "options"
+      ]
+    },
+    "organize": {
+      "2": [
+        "organize"
+      ],
+      "6": [
+        "organize",
+        "organized"
+      ]
+    },
+    "origin": {
+      "14": [
+        "origin"
+      ]
+    },
+    "original": {
+      "2": [
+        "original"
+      ],
+      "15": [
+        "original"
+      ]
+    },
+    "package": {
+      "17": [
+        "package",
+        "packaging"
+      ]
+    },
+    "participant": {
+      "6": [
+        "participant"
+      ]
+    },
+    "particularly": {
+      "14": [
+        "particularly"
+      ]
+    },
+    "patience": {
+      "8": [
+        "patience"
+      ]
+    },
+    "payment": {
+      "11": [
+        "payment"
+      ]
+    },
+    "performance": {
+      "6": [
+        "performance"
+      ]
+    },
+    "permission": {
+      "1": [
+        "permission"
+      ]
+    },
+    "perspective": {
+      "13": [
+        "perspective"
+      ]
+    },
+    "physical": {
+      "7": [
+        "physical"
+      ]
+    },
+    "plot": {
+      "13": [
+        "plot"
+      ]
+    },
+    "policy": {
+      "1": [
+        "policy"
+      ]
+    },
+    "pollution": {
+      "5": [
+        "pollution"
+      ]
+    },
+    "poster": {
+      "5": [
+        "posters"
+      ]
+    },
+    "potential": {
+      "18": [
+        "potential"
+      ]
+    },
+    "preparation": {
+      "2": [
+        "preparation"
+      ],
+      "12": [
+        "preparation"
+      ],
+      "15": [
+        "preparation"
+      ]
+    },
+    "presentation": {
+      "9": [
+        "presentation"
+      ],
+      "16": [
+        "presentation"
+      ]
+    },
+    "preserve": {
+      "10": [
+        "preserved"
+      ]
+    },
+    "pressure": {
+      "17": [
+        "pressure"
+      ]
+    },
+    "private": {
+      "1": [
+        "private"
+      ]
+    },
+    "product": {
+      "17": [
+        "product"
+      ]
+    },
+    "professional": {
+      "3": [
+        "professional"
+      ]
+    },
+    "project": {
+      "11": [
+        "project"
+      ],
+      "15": [
+        "project"
+      ]
+    },
+    "prospect": {
+      "12": [
+        "prospects"
+      ]
+    },
+    "protection": {
+      "5": [
+        "protection"
+      ],
+      "17": [
+        "protection"
+      ]
+    },
+    "psychological": {
+      "7": [
+        "psychological"
+      ]
+    },
+    "publish": {
+      "4": [
+        "publish"
+      ],
+      "11": [
+        "publish"
+      ]
+    },
+    "punctual": {
+      "15": [
+        "punctual"
+      ]
+    },
+    "purchase": {
+      "17": [
+        "purchase",
+        "purchases"
+      ]
+    },
+    "qualification": {
+      "3": [
+        "qualifications"
+      ],
+      "15": [
+        "qualifications"
+      ]
+    },
+    "reader": {
+      "13": [
+        "readers"
+      ]
+    },
+    "realistic": {
+      "7": [
+        "realistic"
+      ],
+      "12": [
+        "realistic"
+      ],
+      "16": [
+        "realistic"
+      ]
+    },
+    "receipt": {
+      "11": [
+        "receipt"
+      ]
+    },
+    "recommend": {
+      "13": [
+        "recommend"
+      ]
+    },
+    "recruit": {
+      "12": [
+        "recruit"
+      ]
+    },
+    "recycle": {
+      "5": [
+        "recycling"
+      ]
+    },
+    "reflect": {
+      "10": [
+        "reflect"
+      ]
+    },
+    "reflection": {
+      "13": [
+        "reflection"
+      ]
+    },
+    "register": {
+      "6": [
+        "register"
+      ]
+    },
+    "regulate": {
+      "17": [
+        "regulate"
+      ]
+    },
+    "relax": {
+      "7": [
+        "relax"
+      ],
+      "10": [
+        "relax"
+      ]
+    },
+    "relevant": {
+      "12": [
+        "relevant"
+      ],
+      "15": [
+        "relevant"
+      ]
+    },
+    "reliable": {
+      "2": [
+        "reliable"
+      ]
+    },
+    "replace": {
+      "2": [
+        "replace"
+      ],
+      "10": [
+        "replacing"
+      ],
+      "18": [
+        "replace"
+      ]
+    },
+    "requirement": {
+      "3": [
+        "requirements"
+      ],
+      "12": [
+        "requirements"
+      ]
+    },
+    "reservation": {
+      "4": [
+        "reservations"
+      ]
+    },
+    "reserve": {
+      "4": [
+        "reserve"
+      ]
+    },
+    "resident": {
+      "1": [
+        "residents"
+      ],
+      "10": [
+        "residents"
+      ]
+    },
+    "resource": {
+      "1": [
+        "resources"
+      ],
+      "4": [
+        "resources"
+      ],
+      "5": [
+        "resources"
+      ]
+    },
+    "respond": {
+      "4": [
+        "respond"
+      ]
+    },
+    "response": {
+      "2": [
+        "response"
+      ],
+      "7": [
+        "response"
+      ]
+    },
+    "responsibility": {
+      "1": [
+        "responsibility"
+      ],
+      "13": [
+        "responsibility"
+      ]
+    },
+    "responsible": {
+      "2": [
+        "responsible"
+      ],
+      "3": [
+        "responsibly"
+      ],
+      "15": [
+        "responsibly"
+      ],
+      "17": [
+        "responsible"
+      ]
+    },
+    "restrict": {
+      "1": [
+        "restrict"
+      ]
+    },
+    "robot": {
+      "18": [
+        "robot",
+        "robots"
+      ]
+    },
+    "routine": {
+      "7": [
+        "routine"
+      ]
+    },
+    "saving": {
+      "18": [
+        "saving"
+      ]
+    },
+    "schedule": {
+      "4": [
+        "schedule"
+      ],
+      "6": [
+        "schedule"
+      ],
+      "17": [
+        "schedules"
+      ]
+    },
+    "section": {
+      "14": [
+        "section"
+      ]
+    },
+    "security": {
+      "18": [
+        "security"
+      ]
+    },
+    "seminar": {
+      "16": [
+        "seminar"
+      ]
+    },
+    "sensitive": {
+      "8": [
+        "sensitive"
+      ]
+    },
+    "session": {
+      "15": [
+        "sessions"
+      ],
+      "16": [
+        "session"
+      ]
+    },
+    "settlement": {
+      "10": [
+        "settlement"
+      ]
+    },
+    "shelter": {
+      "11": [
+        "shelter"
+      ]
+    },
+    "solve": {
+      "5": [
+        "solve"
+      ],
+      "8": [
+        "solving"
+      ],
+      "12": [
+        "solved"
+      ],
+      "18": [
+        "solving"
+      ]
+    },
+    "source": {
+      "2": [
+        "source"
+      ]
+    },
+    "speaker": {
+      "12": [
+        "speaker"
+      ]
+    },
+    "staff": {
+      "4": [
+        "staff"
+      ],
+      "5": [
+        "staff"
+      ],
+      "12": [
+        "staff"
+      ],
+      "18": [
+        "staff"
+      ]
+    },
+    "steady": {
+      "15": [
+        "steady"
+      ]
+    },
+    "strategy": {
+      "12": [
+        "strategy"
+      ]
+    },
+    "stress": {
+      "7": [
+        "stress"
+      ],
+      "12": [
+        "stressed"
+      ]
+    },
+    "style": {
+      "9": [
+        "style"
+      ]
+    },
+    "supervise": {
+      "18": [
+        "supervise"
+      ]
+    },
+    "survey": {
+      "4": [
+        "survey"
+      ]
+    },
+    "talent": {
+      "6": [
+        "talent"
+      ],
+      "9": [
+        "talent"
+      ]
+    },
+    "technology": {
+      "18": [
+        "technology"
+      ]
+    },
+    "theme": {
+      "9": [
+        "theme"
+      ]
+    },
+    "thoughtful": {
+      "13": [
+        "thoughtful"
+      ],
+      "14": [
+        "thoughtful"
+      ]
+    },
+    "tolerance": {
+      "8": [
+        "tolerance"
+      ]
+    },
+    "tradition": {
+      "6": [
+        "tradition"
+      ],
+      "14": [
+        "traditions"
+      ]
+    },
+    "transparent": {
+      "11": [
+        "transparent"
+      ]
+    },
+    "transportation": {
+      "10": [
+        "transportation"
+      ],
+      "11": [
+        "transportation"
+      ],
+      "17": [
+        "transportation"
+      ]
+    },
+    "trial": {
+      "18": [
+        "trial"
+      ]
+    },
+    "tutor": {
+      "15": [
+        "tutor"
+      ]
+    },
+    "union": {
+      "16": [
+        "union"
+      ]
+    },
+    "unique": {
+      "9": [
+        "unique"
+      ]
+    },
+    "update": {
+      "4": [
+        "updated"
+      ]
+    },
+    "upset": {
+      "18": [
+        "upset"
+      ]
+    },
+    "urban": {
+      "10": [
+        "urban"
+      ]
+    },
+    "vary": {
+      "9": [
+        "varied"
+      ]
+    },
+    "vehicle": {
+      "17": [
+        "vehicles"
+      ]
+    },
+    "view": {
+      "9": [
+        "view"
+      ],
+      "10": [
+        "view"
+      ],
+      "16": [
+        "view"
+      ]
+    },
+    "volunteer": {
+      "6": [
+        "volunteers"
+      ],
+      "11": [
+        "volunteers"
+      ],
+      "15": [
+        "volunteer"
+      ]
+    },
+    "worthwhile": {
+      "13": [
+        "worthwhile"
+      ]
+    }
+  },
+  "focus": {
+    "access": [
+      1
+    ],
+    "facility": [
+      1
+    ],
+    "resident": [
+      1,
+      10
+    ],
+    "benefit": [
+      1
+    ],
+    "concern": [
+      1
+    ],
+    "capacity": [
+      1
+    ],
+    "restrict": [
+      1
+    ],
+    "available": [
+      1
+    ],
+    "permission": [
+      1
+    ],
+    "private": [
+      1
+    ],
+    "appropriate": [
+      1
+    ],
+    "responsibility": [
+      1
+    ],
+    "artificial": [
+      2
+    ],
+    "efficient": [
+      2
+    ],
+    "independent": [
+      2
+    ],
+    "academic": [
+      2
+    ],
+    "accurate": [
+      2
+    ],
+    "mislead": [
+      2
+    ],
+    "source": [
+      2
+    ],
+    "reliable": [
+      2
+    ],
+    "evidence": [
+      2
+    ],
+    "original": [
+      2
+    ],
+    "responsible": [
+      2
+    ],
+    "assist": [
+      2,
+      18
+    ],
+    "curriculum": [
+      3
+    ],
+    "combine": [
+      3
+    ],
+    "essential": [
+      3
+    ],
+    "flexible": [
+      3
+    ],
+    "competent": [
+      3
+    ],
+    "career": [
+      3
+    ],
+    "professional": [
+      3
+    ],
+    "qualification": [
+      3,
+      15
+    ],
+    "employment": [
+      3,
+      17
+    ],
+    "ambition": [
+      3
+    ],
+    "option": [
+      3
+    ],
+    "discipline": [
+      3
+    ],
+    "complaint": [
+      4
+    ],
+    "digital": [
+      4
+    ],
+    "catalog": [
+      4
+    ],
+    "schedule": [
+      4
+    ],
+    "update": [
+      4
+    ],
+    "locate": [
+      4
+    ],
+    "reserve": [
+      4
+    ],
+    "staff": [
+      4
+    ],
+    "adequate": [
+      4
+    ],
+    "feedback": [
+      4
+    ],
+    "respond": [
+      4
+    ],
+    "convenience": [
+      4
+    ],
+    "consumption": [
+      5
+    ],
+    "recycle": [
+      5
+    ],
+    "carbon": [
+      5
+    ],
+    "environment": [
+      5
+    ],
+    "electrical": [
+      5
+    ],
+    "maintain": [
+      5
+    ],
+    "discard": [
+      5
+    ],
+    "campaign": [
+      5
+    ],
+    "household": [
+      5,
+      17
+    ],
+    "conservation": [
+      5
+    ],
+    "resource": [
+      5
+    ],
+    "pollution": [
+      5
+    ],
+    "committee": [
+      6
+    ],
+    "annual": [
+      6
+    ],
+    "performance": [
+      6
+    ],
+    "creative": [
+      6
+    ],
+    "competition": [
+      6
+    ],
+    "register": [
+      6
+    ],
+    "participant": [
+      6
+    ],
+    "volunteer": [
+      6,
+      15
+    ],
+    "arrange": [
+      6
+    ],
+    "budget": [
+      6
+    ],
+    "cooperate": [
+      6
+    ],
+    "enthusiasm": [
+      6
+    ],
+    "psychological": [
+      7
+    ],
+    "physical": [
+      7
+    ],
+    "anxiety": [
+      7
+    ],
+    "stress": [
+      7
+    ],
+    "fatigue": [
+      7
+    ],
+    "balance": [
+      7
+    ],
+    "routine": [
+      7
+    ],
+    "diet": [
+      7
+    ],
+    "relax": [
+      7
+    ],
+    "mood": [
+      7
+    ],
+    "concentrate": [
+      7
+    ],
+    "motivate": [
+      7
+    ],
+    "communication": [
+      8
+    ],
+    "collaboration": [
+      8
+    ],
+    "conflict": [
+      8
+    ],
+    "mutual": [
+      8
+    ],
+    "patience": [
+      8
+    ],
+    "clarify": [
+      8
+    ],
+    "acknowledge": [
+      8
+    ],
+    "sensitive": [
+      8
+    ],
+    "attitude": [
+      8
+    ],
+    "interact": [
+      8
+    ],
+    "tolerance": [
+      8
+    ],
+    "confidence": [
+      8
+    ],
+    "theme": [
+      9
+    ],
+    "exhibit": [
+      9,
+      14
+    ],
+    "display": [
+      9
+    ],
+    "impress": [
+      9
+    ],
+    "gesture": [
+      9
+    ],
+    "talent": [
+      9
+    ],
+    "artistic": [
+      9
+    ],
+    "unique": [
+      9
+    ],
+    "audience": [
+      9,
+      16
+    ],
+    "applaud": [
+      9
+    ],
+    "atmosphere": [
+      9
+    ],
+    "appreciate": [
+      9
+    ],
+    "transportation": [
+      10
+    ],
+    "gradual": [
+      10
+    ],
+    "local": [
+      10
+    ],
+    "housing": [
+      10
+    ],
+    "construct": [
+      10
+    ],
+    "economic": [
+      10
+    ],
+    "preserve": [
+      10
+    ],
+    "historical": [
+      10
+    ],
+    "landscape": [
+      10
+    ],
+    "urban": [
+      10
+    ],
+    "settlement": [
+      10
+    ],
+    "association": [
+      11
+    ],
+    "collection": [
+      11
+    ],
+    "shelter": [
+      11
+    ],
+    "donate": [
+      11
+    ],
+    "classify": [
+      11
+    ],
+    "label": [
+      11
+    ],
+    "amount": [
+      11
+    ],
+    "distribute": [
+      11
+    ],
+    "fund": [
+      11
+    ],
+    "contribution": [
+      11
+    ],
+    "receipt": [
+      11
+    ],
+    "transparent": [
+      11
+    ],
+    "speaker": [
+      12
+    ],
+    "occupation": [
+      12
+    ],
+    "realistic": [
+      12
+    ],
+    "evaluate": [
+      12
+    ],
+    "prospect": [
+      12
+    ],
+    "application": [
+      12
+    ],
+    "achievement": [
+      12
+    ],
+    "interview": [
+      12
+    ],
+    "preparation": [
+      12
+    ],
+    "recruit": [
+      12
+    ],
+    "strategy": [
+      12
+    ],
+    "guidance": [
+      12
+    ],
+    "recommend": [
+      13
+    ],
+    "plot": [
+      13
+    ],
+    "character": [
+      13
+    ],
+    "perspective": [
+      13
+    ],
+    "imagination": [
+      13
+    ],
+    "fiction": [
+      13
+    ],
+    "reflection": [
+      13
+    ],
+    "moral": [
+      13
+    ],
+    "curiosity": [
+      13
+    ],
+    "insight": [
+      13
+    ],
+    "literature": [
+      13
+    ],
+    "worthwhile": [
+      13
+    ],
+    "museum": [
+      14
+    ],
+    "culture": [
+      14
+    ],
+    "ancient": [
+      14
+    ],
+    "origin": [
+      14
+    ],
+    "tradition": [
+      14
+    ],
+    "feature": [
+      14
+    ],
+    "interpretation": [
+      14
+    ],
+    "architecture": [
+      14
+    ],
+    "fascinate": [
+      14
+    ],
+    "educate": [
+      14
+    ],
+    "leisure": [
+      14
+    ],
+    "tutor": [
+      15
+    ],
+    "county": [
+      15
+    ],
+    "applicant": [
+      15
+    ],
+    "contribute": [
+      15
+    ],
+    "commitment": [
+      15
+    ],
+    "relevant": [
+      15
+    ],
+    "capable": [
+      15
+    ],
+    "adapt": [
+      15
+    ],
+    "punctual": [
+      15
+    ],
+    "grateful": [
+      15
+    ],
+    "graduate": [
+      16
+    ],
+    "seminar": [
+      16
+    ],
+    "presentation": [
+      16
+    ],
+    "agenda": [
+      16
+    ],
+    "session": [
+      16
+    ],
+    "host": [
+      16
+    ],
+    "accompany": [
+      16
+    ],
+    "confirm": [
+      16
+    ],
+    "inform": [
+      16
+    ],
+    "contact": [
+      16
+    ],
+    "invitation": [
+      16
+    ],
+    "delivery": [
+      17
+    ],
+    "consumer": [
+      17
+    ],
+    "purchase": [
+      17
+    ],
+    "commerce": [
+      17
+    ],
+    "expense": [
+      17
+    ],
+    "pressure": [
+      17
+    ],
+    "package": [
+      17
+    ],
+    "vehicle": [
+      17
+    ],
+    "negative": [
+      17
+    ],
+    "regulate": [
+      17
+    ],
+    "robot": [
+      18
+    ],
+    "automatic": [
+      18
+    ],
+    "device": [
+      18
+    ],
+    "function": [
+      18
+    ],
+    "potential": [
+      18
+    ],
+    "maintenance": [
+      18
+    ],
+    "engineering": [
+      18
+    ],
+    "supervise": [
+      18
+    ],
+    "security": [
+      18
+    ],
+    "replace": [
+      18
+    ],
+    "judgment": [
+      18
+    ]
+  }
+}

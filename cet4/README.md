@@ -61,3 +61,6 @@
 ## 作文训练
 
 - [作文资料入口](./writing/README.md)
+
+- [18篇作文与重点词汇学习库](./writing/essay18/README.md)
+
