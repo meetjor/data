@@ -20,6 +20,8 @@
 
 - [Day11｜让句子表达准确](./daily/2026-10-12_Day11_让句子表达准确.md)｜[平板PDF](./daily/CET4_Day11.pdf)
 
+- [Day12｜把建议写具体](./daily/2026-10-20_Day12_把建议写具体.md)｜[平板PDF](./daily/CET4_Day12.pdf)
+
 ## 兴趣阅读
 
 - [兴趣阅读文章归档｜ARTICLE 格式](./reading/兴趣阅读文章归档.md)
@@ -35,6 +37,8 @@
 - [Day10｜兴趣阅读](./reading/2026-10-10_Day10/README.md)
 
 - [Day11｜兴趣阅读](./reading/2026-10-12_Day11/README.md)
+
+- [Day12｜兴趣阅读](./reading/2026-10-20_Day12/README.md)
 
 ## 历史听力资料
 
@@ -64,4 +68,3 @@
 - [作文资料入口](./writing/README.md)
 
 - [18篇作文与重点词汇学习库](./writing/essay18/README.md)
-
